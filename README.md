@@ -11,7 +11,7 @@
 - [Example](#example)
 - [Understanding the Results](#understanding-the-results)
 - [Limitations](#limitations)
-=- [Credits](#credits)
+- [Credits](#credits)
 
 ## Introduction
 
